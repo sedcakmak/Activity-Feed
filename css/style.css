@@ -1,0 +1,29 @@
+/* Fonts */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700");
+@import url("https://use.fontawesome.com/releases/v5.0.10/css/all.css");
+
+/* Components */
+@import url("components/navbar.css");
+@import url("components/avatar.css");
+@import url("components/notification.css");
+@import url("components/tabs.css");
+
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  width: 100vw;
+  height: 100vh;
+  line-height: normal !important;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+}
+
+html {
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: 10px auto;
+}

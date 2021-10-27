@@ -1,0 +1,13 @@
+.navbar-lewagon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 100%;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+  border-bottom: 3px solid #E7E7E7;
+}
+
+.navbar-lewagon img {
+  width: 50px;
+}
