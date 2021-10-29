@@ -7,9 +7,9 @@ of the mobile portrait version)
 
 I also wanted to implement a working tab (which isn't the case with the original challenge). I used Javascript to move between the tabs and show/hide the contents accordingly.
 
-I experimented with linear-gradient and skew, box-shadow and text-shadow on tab contents.
+* I experimented with linear-gradient and skew, box-shadow and text-shadow on tab contents.
 
-I used several pseudo-classes; including :not().
+*I used several pseudo-classes; including :not().
 
 I also experimented with the blinking text on mobile portrait version (using CSS animation). I commented it out after learning that it's not advisible regarding acccessibility.
 
