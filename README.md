@@ -15,9 +15,4 @@ I also experimented with the blinking text on mobile portrait version (using CSS
 
 The problems I couldn't solve (yet): 
 
-/* The part below is added for styling the mobile. I couldn't
-fit all of them in one line properly and this was the solution
-I came up with. I still have two minor problems: In landscape,
-the last notification action isn't proper. The second issue is:
-when I click suggestions and find designers in portrait I have
-a glitch which I couldn't find how to fix */
+/* In landscape,the last notification action isn't proper. The second issue is: when I click suggestions and find designers in portrait I have a glitch which I couldn't find how to fix */
