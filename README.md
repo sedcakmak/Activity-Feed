@@ -13,6 +13,6 @@ I used several pseudo-classes; including :not().
 
 I also experimented with the blinking text on mobile portrait version (using CSS animation). I commented it out after learning that it's not advisible regarding acccessibility.
 
-# The problems I couldn't solve (yet): 
+## The problems I couldn't solve (yet): 
 
 /* In landscape,the last notification action isn't proper. The second issue is: when I click suggestions and find designers in portrait I have a glitch which I couldn't find how to fix */
