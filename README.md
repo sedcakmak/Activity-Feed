@@ -15,4 +15,4 @@ I also experimented with the blinking text on mobile portrait version (using CSS
 
 ## The problems I couldn't solve (yet): 
 
-In landscape, the last notification action isn't proper. The second issue is: when I click suggestions and find designers in portrait I have a glitch which I couldn't find how to fix.
+In landscape, the last notification action isn't proper. The second issue is: when I switch between "Suggestions" and "Find designers" in portrait mode I have a glitch which I couldn't find how to fix. (and not sure why it's happening, but I have a feeling it's related to "tab panels" since the styling of the both tab contents are identical.)
