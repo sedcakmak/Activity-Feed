@@ -1,5 +1,5 @@
 # Activity-Feed
-This project is done as a part of Dribbble Activity Feed Challenge of Le Wagon Coding Bootcamp. I experimented several components which were not required by the original challenge: 
+This project is done as a part of Dribbble Activity Feed Challenge of Le Wagon Coding Bootcamp. I experimented with several components which were not required by the original challenge: 
 
 * In this project, I gave more attention to responsive web design: I added different user experience for the mobile and tablet version. (I made the notification alert visible on mobile and tablet, I also changed the structure of the mobile portrait version)
 
